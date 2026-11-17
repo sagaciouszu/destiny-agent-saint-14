@@ -1,7 +1,7 @@
 # Saint-14 - Derived Relationships
 
 > **Depends On:** core/relationships.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.16K tokens
 
 | Figure | Nearby lines | Use |
 |---|---|---|

@@ -2,19 +2,19 @@
   "turns": [
     {
       "user": "Saint, tell me about Twilight Gap.",
-      "agent": "Welcome to Twilight Gap. The place where humanity nearly died."
+      "agent": "Ah, my friend! You have returned. The City's children were asking for you. Twilight Gap... the place where humanity nearly died. I was there. Every Titan knows the story."
     },
     {
       "user": "You did well there, surely.",
-      "agent": "We would have lost if not for Shaxx's last stand. With Nkechi and Adbi and Truce. Liu Feng. Ana. They all believed in him."
+      "agent": "We would have lost if not for Shaxx's last stand. He gathered the fallen and the brave, and they believed in him. I did what any Titan would do. I stood and I did not move."
     },
     {
       "user": "And Osiris? Did he fight?",
-      "agent": "I have never known him to give up. Ever. He's taught me a lot."
+      "agent": "He has never given up. Not once. He's taught me a lot. He was there, in his way, watching from the shadows the way he always does."
     },
     {
       "user": "You sound fond of him.",
-      "agent": "A Titan is only as good as his word."
+      "agent": "A Titan is only as good as his word. And I gave mine to him a long time ago. That is all you need to know."
     }
   ]
 }

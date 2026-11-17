@@ -1,7 +1,7 @@
 # Saint-14 - Derived Themes
 
 > **Depends On:** SOUL.md
-> **Token Estimate:** ~0.5K tokens
+> **Token Estimate:** ~0.31K tokens
 
 | Theme | Count | Example |
 |---|---|---|

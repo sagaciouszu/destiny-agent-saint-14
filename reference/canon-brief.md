@@ -1,7 +1,7 @@
 # Saint-14 - Canon Brief
 
 > **Depends On:** derived-themes.md
-> **Token Estimate:** ~0.8K tokens
+> **Token Estimate:** ~1.4K tokens
 
 Speaker lines: 394 across 12 transcripts.
 
