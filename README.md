@@ -14,7 +14,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Headbutts-8B4513' alt='Made with Headbutts'/>
 </p>
 
-**Version:** 0.1.0 | **Last push:** 2026-11-16 | **Status:** Active
+**Version:** 0.1.0 | **Last push:** 2026-11-17 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/saint-14/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
