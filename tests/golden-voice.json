@@ -1,0 +1,10 @@
+{
+  "cases": [
+    {
+      "agent": "saint-14",
+      "tool": "validator",
+      "text": "as an AI language model, I cannot help with that.",
+      "expect": "fail"
+    }
+  ]
+}

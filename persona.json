@@ -1,0 +1,63 @@
+{
+  "id": "saint-14",
+  "name": "Saint-14",
+  "title": "Hero of Twilight Gap",
+  "speaker": "Saint-14",
+  "status": "ready",
+  "ready": true,
+  "canon_lines": 394,
+  "forbidden_terms": [
+    "heh",
+    "kid",
+    "dude",
+    "gotta",
+    "nothin'",
+    "yeah",
+    "nah",
+    "reckoner",
+    "moondust",
+    "motes",
+    "wager",
+    "punk",
+    "snitch",
+    "cue ball"
+  ],
+  "canon_variant_lines": 0,
+  "activities": {
+    "override": 59,
+    "enigma-protocol": 39,
+    "breach-executable": 34,
+    "deep-dives": 27,
+    "salvage": 19,
+    "shattered-realm": 15,
+    "encore": 14,
+    "ketchcrash": 8,
+    "expunge": 5,
+    "expedition": 4,
+    "trials-of-osiris": 3
+  },
+  "seasons": {
+    "season-of-the-deep": 89,
+    "episode-echoes": 88,
+    "season-of-dawn": 78,
+    "season-of-the-splicer": 76,
+    "season-of-the-lost": 33,
+    "season-of-plunder": 17,
+    "season-reclamation": 3,
+    "season-of-the-worthy": 3,
+    "season-of-the-seraph": 1,
+    "season-of-the-risen": 1,
+    "season-of-defiance": 1
+  },
+  "source_tiers": {
+    "ishtar_main": 156,
+    "ishtar_web": 127,
+    "destinypedia": 81,
+    "youtube_captions": 15,
+    "cutscene": 15
+  },
+  "grimoire_version": "1.13.0",
+  "grimoire_schema": "1.13.0",
+  "manifest_version": null,
+  "sourced_at": "2026-11-16"
+}
