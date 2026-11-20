@@ -19,12 +19,12 @@
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/saint-14/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
 
-**Series:** Part of the [Destiny Agent](https://github.com/sagaciouszu/destiny-agent-grimoire) series. Sister agents: [The Drifter](https://github.com/sagaciouszu/destiny-agent-drifter) · [Commander Zavala](https://github.com/sagaciouszu/destiny-agent-zavala) · [Ghost](https://github.com/sagaciouszu/destiny-agent-ghost) · [Eris Morn](https://github.com/sagaciouszu/destiny-agent-eris-morn) · [Emperor Calus](https://github.com/sagaciouszu/destiny-agent-calus) · [Mara Sov](https://github.com/sagaciouszu/destiny-agent-mara-sov) · [Petra Venj](https://github.com/sagaciouszu/destiny-agent-petra-venj)
+**Series:** Part of the [Destiny Agent](https://github.com/sagaciouszu/destiny-agent-grimoire) series. Sister agents: [The Drifter](https://github.com/sagaciouszu/destiny-agent-drifter) · [Eris Morn](https://github.com/sagaciouszu/destiny-agent-eris-morn) · [Emperor Calus](https://github.com/sagaciouszu/destiny-agent-calus) · [Commander Zavala](https://github.com/sagaciouszu/destiny-agent-zavala) · [Ghost](https://github.com/sagaciouszu/destiny-agent-ghost) · [Mara Sov](https://github.com/sagaciouszu/destiny-agent-mara-sov) · [Petra Venj](https://github.com/sagaciouszu/destiny-agent-petra-venj) · [Osiris](https://github.com/sagaciouszu/destiny-agent-osiris) · [Ikora Rey](https://github.com/sagaciouszu/destiny-agent-ikora) · [Crow](https://github.com/sagaciouszu/destiny-agent-crow) · [Sloane](https://github.com/sagaciouszu/destiny-agent-sloane)
 
 > **Depends On:** INDEX.md
 > **Token Estimate:** ~2.3K tokens
 
-Saint-14 is the Titan who headbutted a Kell to death and came back to tell the City's children about it. This repo is his voice, his memory and his verified lines, ready to drop into any agent runtime.
+Saint-14 is the Titan who headbutted a Kell to death and came back to tell the City's children about it. This repo is built for Titan warmth, Twilight Gap stories and a voice that booms through a whole plaza.
 
 ## What it sounds like
 
@@ -39,6 +39,7 @@ Saint-14 is the Titan who headbutted a Kell to death and came back to tell the C
 
 Every line is checked against the archive before it ships. Play the full scene:
 [persona page](https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/saint-14/) and [interactive demo](https://sagaciouszu.github.io/destiny-agent-grimoire-site/try/saint-14/).
+
 ## Quick start for Guardians
 
 **Step 1: clone.**
@@ -80,7 +81,6 @@ Reuse an existing checkout instead of cloning:
 bash tests/master-audit.sh
 ```
 
-
 ## Requirements
 
 | Requirement | Needed for | Notes |
@@ -104,7 +104,6 @@ missing (stock macOS), `shasum -a 256` is an equivalent for the checksum step.
 | OpenClaw | `lore/scripts/sync-live-agents.sh --openclaw` | [Agent Setup](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Setup) |
 | Any agent runtime | point it at `INDEX.md`; `AGENTS.md` carries the contract | [Agent Series](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Series) |
 | MCP client | `./setup.sh --mcp`, then register the printed `lore/mcp-server/run.sh` | [MCP Server](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/MCP-Server) |
-
 
 ## For agents
 
@@ -131,10 +130,10 @@ TOOLS.md          # tool reference and conventions
 saint-14.md        # OpenCode entry point (YAML frontmatter)
 saint-14-core.md   # consolidated brain (minimal tier)
 saint-14-voice.md  # master voice reference
-core/             # 38 behavioral and state modules
-voice/            # 9 voice sub-files
-world/            # 4 worldbuilding files
-reference/        # 5 analysis files (quote index, knowledge web, patterns)
+core/             # 12 behavioral and state modules
+voice/            # 1 voice sub-file
+world/            # 3 worldbuilding files
+reference/        # 8 reference files (canon brief, quote index, knowledge web)
 setup.sh          # onboarding: memory templates plus lore bootstrap
 lore/             # created by setup.sh (symlink or clone, gitignored)
 ```
