@@ -148,7 +148,7 @@ lore/             # created by setup.sh (symlink or clone, gitignored)
 | Database integrity | `bash lore/tests/test-db.sh` | 68 checks |
 | Suite manifest | `python3 tests/suite-manifest-test.py` | manifest valid |
 | Shared helpers | `bash tests/shared-helpers-test.sh` | Passed: every helper matches |
-| Query interface | `bash lore/tests/query-interface-test.sh` | 100 checks |
+| Query interface | `bash lore/tests/query-interface-test.sh` | 101 checks |
 | MCP contract | `lore/mcp-server/.venv/bin/python lore/tests/mcp-test.py` | 13/13 checks |
 | File conformance | `python3 lore/tests/conformance.py` | PASS |
 
