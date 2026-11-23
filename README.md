@@ -131,7 +131,7 @@ saint-14.md        # OpenCode entry point (YAML frontmatter)
 saint-14-core.md   # consolidated brain (minimal tier)
 saint-14-voice.md  # master voice reference
 core/             # 12 behavioral and state modules
-voice/            # 1 voice sub-file
+voice/            # 2 voice sub-files
 world/            # 3 worldbuilding files
 reference/        # 8 reference files (canon brief, quote index, knowledge web)
 setup.sh          # onboarding: memory templates plus lore bootstrap
